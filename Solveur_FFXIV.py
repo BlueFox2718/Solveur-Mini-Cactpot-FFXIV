@@ -1,6 +1,7 @@
 # ==================================================== #
 # Code écrit par Mathieu Cima 2023                     #
 # Dans le cadre de la vidéo YouTube ci jointe:         #
+# https://www.youtube.com/watch?v=Mnl7zBY1TGc          #
 # code source et algorithme libre de droit             #
 # Paternité intelectuel de l'algorithme à Mathieu Cima #
 # Tout usage à des fins commerciales est interdit      #
