@@ -150,7 +150,7 @@ def main():
         print("0|0|X")
         print("0|X|0")
         print("X|0|0")
-    print("Programme et algorithme conçu par Mathieu Cima - 2023. Open Source. Tout usage à des fins commerciales est interdit")
+    print("Programme et algorithme conçus par Mathieu Cima - 2023. Open Source. Tout usage à des fins commerciales est interdit")
     
 
 main()
